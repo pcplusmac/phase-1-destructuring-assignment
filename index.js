@@ -37,7 +37,7 @@ const [moo,neigh,baa,oink,cluck] = animals ;
 const [ bessie, ,dolly,babe,little] = animals
 
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of blackAndWhite, black, and pink.
-
+const [blackAndWhite, , black,pink, ,] = animals
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
